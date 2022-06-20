@@ -5,7 +5,7 @@ This is Face Detection Project in which Face is D
 
 **2. [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)**
 
-## 👇 Steps to Setup OpenCV with Visual Studio
+## 📌 Steps to Setup OpenCV with Visual Studio
 
 **1. Set up Environment Path**
    
