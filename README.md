@@ -11,7 +11,7 @@ This is Face Detection Project in which Face is D
    
     Environment Variable Path : C:\OpenCV\opencv\build\x64\vc14\bin
 
-**2. Properties of Project in (Visual Studio)**
+**2. Properties of Project inside Visual Studio**
 
     C/C++ Settings 👇
 
