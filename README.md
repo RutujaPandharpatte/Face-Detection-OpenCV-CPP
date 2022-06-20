@@ -1,4 +1,6 @@
-This is Face Detection Project in which Face is D
+<h2 align="center">The Face Detection System detects the Face/s either from <i>Image</i> or from <i>Live Video</i></h2>
+<br>
+
 # ⭐ Prerequisites
 
 **1. [OpenCV](https://opencv.org/releases/) (Open Computer Vision)**
