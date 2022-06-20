@@ -27,3 +27,14 @@
     Input => Additional Dependencies : opencv_world452d.lib
       
 ## 📷 Results
+
+<p align="center">
+   <img src=Images/Avengers.jpg height="300" width="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src=Images/FF.jpg height="300" width="300"/>
+</p>
+<br>
+<p align="center">
+   <img src=Images/HP.jpg height="300" width="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src=Images/TC.jpg height="300" width="300"/>
+</p>
+   
