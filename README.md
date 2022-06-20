@@ -1,4 +1,4 @@
-# ⭐ Requirements
+# ⭐ Prerequisites
 
 **1. [OpenCV](https://opencv.org/releases/) (Open Computer Vision)**
 
